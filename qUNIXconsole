@@ -17,15 +17,18 @@
 clear
 
 menu='
+qUNIXconsole
+------------
+
+
 Select Desired Interface:
--------------------------
 
 1. Predefined Cable
 2. USB Serial Adapter
 3. Other(s)
 4. Exit
 
-Select Option ( 1 | 2 | 3 | 4 ): ' 
+Select Option (1 - 4): ' 
 
 while true; do
 	clear
